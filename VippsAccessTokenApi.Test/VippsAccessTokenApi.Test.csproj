@@ -3,7 +3,7 @@
   <PropertyGroup>
     <AssemblyName>VippsAccessTokenApi.Test</AssemblyName>
     <RootNamespace>VippsAccessTokenApi.Test</RootNamespace>
-    <TargetFramework>net47</TargetFramework>
+    <TargetFramework>net462</TargetFramework>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
